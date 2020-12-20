@@ -1,0 +1,2 @@
+class ItemsList < ApplicationRecord
+end

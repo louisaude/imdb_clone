@@ -1,0 +1,2 @@
+class Relationhip < ApplicationRecord
+end
